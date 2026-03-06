@@ -30,5 +30,4 @@ It also provides an option to **undo the organisation** and restore files back t
 
 ---
 
-## 📂 Folder Structure Created
 
